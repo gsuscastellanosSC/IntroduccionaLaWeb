@@ -22,3 +22,8 @@
           ^
           |
          Bit
+**Class#6**
+    ASCII
+**Links**
+    ASCII Code - The extended ASCII table:
+        https://www.ascii-code.com/
