@@ -24,6 +24,10 @@
          Bit
 **Class#6**
     ASCII
+**Class#7**
+    UNICODE
 **Links**
     ASCII Code - The extended ASCII table:
         https://www.ascii-code.com/
+    Unicode Character table:
+        https://unicode-table.com/en/#basic-latin
