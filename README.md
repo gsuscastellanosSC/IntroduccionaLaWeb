@@ -64,6 +64,12 @@
         POST: Envía datos
         PUT: Crea o remplaza datos
         DELETE: Borra datos especificos
+**Class#17**
+    Estándares web
+        * Html...5
+        * CSS
+        * JS
+        * WebAssembly
 **Links**
     W3C:
         https://www.w3.org/Consortium/Member/List
