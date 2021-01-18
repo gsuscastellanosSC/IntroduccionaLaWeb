@@ -43,10 +43,18 @@
 **Class#11**
     ISP
         Internet Service Provider
-**Class#12**    
+**Class#12**
     DNS
         Domain Name System
+**Class#13**
+    El primer desarrollador web
+        Tim Berners Lee
+            HTML: Hyper Text Markup Language
+            URL: Uniform Resource Locator
+            HTTP: Hypertext Transfer Protocol.
 **Links**
+    World Wide Web:
+        http://info.cern.ch/hypertext/WWW/TheProject.html
     Submarine Cable Map:
         https://www.submarinecablemap.com/
     ASCII Code - The extended ASCII table:
