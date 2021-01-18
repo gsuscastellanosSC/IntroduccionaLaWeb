@@ -4,3 +4,5 @@
     Bienvenida al desarrollo web
 **Class#2**
     ¿Cómo empezó todo?
+**Class#3**
+    Inputs y outputs
