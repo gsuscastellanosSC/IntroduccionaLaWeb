@@ -57,6 +57,13 @@
         World Wide Web Consortium  
 **Class#15**
     Web browser
+**Class#16**
+    Evolución del protocolo HTTP
+        Hipertext Transfer Protocol
+        GET: Solicita datos
+        POST: Envía datos
+        PUT: Crea o remplaza datos
+        DELETE: Borra datos especificos
 **Links**
     W3C:
         https://www.w3.org/Consortium/Member/List
