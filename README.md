@@ -40,6 +40,9 @@
     |Data Link | Ethernet, Switches|
     |Physical  | Cables            |
     --------------------------------
+**Class#11**
+    ISP
+        Internet Service Provider
 **Links**
     Submarine Cable Map:
         https://www.submarinecablemap.com/
