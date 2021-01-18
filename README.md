@@ -17,7 +17,7 @@
     Bits y bytes
            Byte
     |----------------------|
-     |128|64|32|16|8|4|2|1|
+     | 128|64|32|16|8|4|2|1|
     ----------------------
           ^
           |
@@ -26,9 +26,13 @@
     ASCII
 **Class#7**
     UNICODE
-**Class#8**    
+**Class#8**
     RGB
+**Class#9**
+    ¿De donde viene el internet?
 **Links**
+    Submarine Cable Map:
+        https://www.submarinecablemap.com/
     ASCII Code - The extended ASCII table:
         https://www.ascii-code.com/
     Unicode Character table:
