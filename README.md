@@ -52,7 +52,12 @@
             HTML: Hyper Text Markup Language
             URL: Uniform Resource Locator
             HTTP: Hypertext Transfer Protocol.
+**Class#14**
+    W3C
+        World Wide Web Consortium   
 **Links**
+    W3C:
+        https://www.w3.org/Consortium/Member/List
     World Wide Web:
         http://info.cern.ch/hypertext/WWW/TheProject.html
     Submarine Cable Map:
