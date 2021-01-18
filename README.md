@@ -87,6 +87,8 @@
     Render tree
 **Class#22**
     Layout
+**Class#23**
+    Paint
 **Links**
     W3C:
         https://www.w3.org/Consortium/Member/List
