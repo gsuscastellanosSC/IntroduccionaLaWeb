@@ -70,6 +70,10 @@
         * CSS
         * JS
         * WebAssembly
+**Class#18**
+    ¿Dónde estamos ahora?
+        * Multiplataforma (Número de dispositivos 4000*10^6, más del 50% de la población mundial), estandar actual mobil primero.
+        * Internet de las cosas
 **Links**
     W3C:
         https://www.w3.org/Consortium/Member/List
