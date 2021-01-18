@@ -54,7 +54,9 @@
             HTTP: Hypertext Transfer Protocol.
 **Class#14**
     W3C
-        World Wide Web Consortium   
+        World Wide Web Consortium  
+**Class#15**
+    Web browser
 **Links**
     W3C:
         https://www.w3.org/Consortium/Member/List
