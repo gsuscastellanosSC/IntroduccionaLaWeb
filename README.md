@@ -30,6 +30,16 @@
     RGB
 **Class#9**
     ¿De donde viene el internet?
+**Class#10**
+    Protocolos
+    TCP/IP
+    --------------------------------
+    |Aplication| Http/ftp          |
+    |Transport | TCP, UDP          |
+    |Network   | Ip, Routers       |
+    |Data Link | Ethernet, Switches|
+    |Physical  | Cables            |
+    --------------------------------
 **Links**
     Submarine Cable Map:
         https://www.submarinecablemap.com/
