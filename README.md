@@ -43,6 +43,9 @@
 **Class#11**
     ISP
         Internet Service Provider
+**Class#12**    
+    DNS
+        Domain Name System
 **Links**
     Submarine Cable Map:
         https://www.submarinecablemap.com/
