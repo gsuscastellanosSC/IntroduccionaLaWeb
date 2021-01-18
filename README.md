@@ -89,6 +89,8 @@
     Layout
 **Class#23**
     Paint
+**Class#24**    
+    JavaScript engine
 **Links**
     W3C:
         https://www.w3.org/Consortium/Member/List
