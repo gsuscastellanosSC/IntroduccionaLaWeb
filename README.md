@@ -26,6 +26,8 @@
     ASCII
 **Class#7**
     UNICODE
+**Class#8**    
+    RGB
 **Links**
     ASCII Code - The extended ASCII table:
         https://www.ascii-code.com/
