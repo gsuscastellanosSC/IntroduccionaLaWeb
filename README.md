@@ -6,3 +6,10 @@
     ¿Cómo empezó todo?
 **Class#3**
     Inputs y outputs
+**Class#4**
+    Binario
+        => Sistema de conteo
+            Decimal
+                1, 2, ..
+            Binario(1, 2, 4, 8...128)
+                0, 1, 10, 11
