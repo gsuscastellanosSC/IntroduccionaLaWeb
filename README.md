@@ -85,6 +85,8 @@
     CSSOM
 **Class#21**
     Render tree
+**Class#22**
+    Layout
 **Links**
     W3C:
         https://www.w3.org/Consortium/Member/List
